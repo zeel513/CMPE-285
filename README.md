@@ -16,7 +16,7 @@ The Stock Portfolio Suggestion Engine uses investment strategies like ethical in
 
 ## Submitted By
 
-Annmary K Sebastian (015215928)
-Sujatha Nadimpalli (014686113)
-Zeel Jayeshkumar Soni (015337465)
-Hanish Punamiya (015271971)
+- Annmary K Sebastian (015215928)
+- Sujatha Nadimpalli (014686113)
+- Zeel Jayeshkumar Soni (015337465)
+- Hanish Punamiya (015271971)
