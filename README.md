@@ -13,3 +13,10 @@ The Stock Portfolio Suggestion Engine uses investment strategies like ethical in
 - Install other packages if needed.
 - Run python file by using: python backend/application.py
 - Open web browser and type the address.
+
+## Submitted By
+
+Annmary K Sebastian (015215928)
+Sujatha Nadimpalli (014686113)
+Zeel Jayeshkumar Soni (015337465)
+Hanish Punamiya (015271971)
