@@ -2,7 +2,7 @@
 
 # Stock-Portfolio-Suggestion-Engine
 The Stock Portfolio Suggestion Engine uses investment strategies like ethical investing, value investing, growth investing, index investing, and quality investing to suggest the best investment options according to the investment amount input by the user. A detailed report of the suggested stock portfolio is presented to the user, through our simple yet elegant user interface.
-- Youtube Link: 
+- Youtube Link: https://youtu.be/5JB7GlPLgdg
 
 ## How to setup and run the project:
 
